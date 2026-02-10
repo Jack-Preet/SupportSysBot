@@ -1,0 +1,24 @@
+# --- Backend Framework ---
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+
+# --- Speech Processing (STT & TTS) ---
+faster-whisper
+edge-tts
+SpeechRecognition
+
+# --- Intelligence & Fuzzy Search ---
+chromadb
+rapidfuzz
+
+# --- Database & Storage ---
+pymongo
+pytz
+
+# --- Utilities & Audio ---
+pygame
+numpy
+scipy
